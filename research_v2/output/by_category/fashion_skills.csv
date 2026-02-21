@@ -1,0 +1,28 @@
+skill,category,type,demand,scarcity,future_proof
+Quality assurance,Fashion,hard,91.7,78.7,84.2
+REST API design,Fashion,hard,91.0,57.4,85.3
+Node.js,Fashion,hard,87.1,92.7,63.2
+Collaboration,Fashion,soft,85.9,84.9,65.1
+Quality assurance,Fashion,hard,85.8,69.5,78.4
+Creativity,Fashion,soft,85.4,66.6,87.5
+Negotiation,Fashion,soft,85.3,87.1,59.6
+Patient triage,Fashion,hard,85.3,71.6,76.3
+Patient triage,Fashion,hard,85.1,79.7,82.4
+Time management,Fashion,soft,85.0,61.6,68.0
+Docker,Fashion,hard,84.3,48.0,54.3
+Git,Fashion,hard,84.0,77.8,70.1
+Communication,Fashion,soft,83.8,66.9,64.3
+Creativity,Fashion,soft,83.7,62.2,63.2
+Negotiation,Fashion,soft,83.7,56.3,81.4
+Terraform,Fashion,hard,83.5,61.0,90.2
+Figma,Fashion,hard,83.2,84.8,86.4
+A/B testing,Fashion,hard,82.8,83.1,58.1
+Project management,Fashion,hard,82.6,75.0,80.6
+AWS,Fashion,hard,82.4,58.3,71.6
+TypeScript,Fashion,hard,82.2,67.7,83.5
+Collaboration,Fashion,soft,81.6,73.5,83.1
+Leadership,Fashion,soft,81.0,67.7,62.4
+AWS,Fashion,hard,80.9,76.8,75.1
+Communication,Fashion,soft,80.9,68.5,55.1
+AutoCAD,Fashion,hard,80.8,76.5,81.2
+Time management,Fashion,soft,79.4,80.4,80.5

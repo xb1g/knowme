@@ -1,0 +1,34 @@
+skill,category,type,demand,scarcity,future_proof
+Tableau,Manufacturing,hard,92.0,67.5,66.1
+Machine learning,Manufacturing,hard,91.7,68.4,87.2
+A/B testing,Manufacturing,hard,90.0,55.2,61.3
+Project management,Manufacturing,hard,88.1,71.3,75.0
+Linux,Manufacturing,hard,87.4,55.1,77.9
+Figma,Manufacturing,hard,86.7,48.1,76.4
+Project management,Manufacturing,hard,86.2,55.3,56.5
+Negotiation,Manufacturing,soft,86.1,68.9,80.1
+Node.js,Manufacturing,hard,85.8,75.2,71.3
+Critical thinking,Manufacturing,soft,85.6,60.0,71.8
+Power BI,Manufacturing,hard,85.6,57.3,68.6
+AWS,Manufacturing,hard,85.4,70.4,59.9
+HIPAA compliance,Manufacturing,hard,85.2,85.1,60.5
+AutoCAD,Manufacturing,hard,85.2,49.2,54.8
+REST API design,Manufacturing,hard,85.0,66.4,79.1
+Terraform,Manufacturing,hard,84.9,79.1,71.2
+Adobe Illustrator,Manufacturing,hard,84.9,75.8,68.8
+Problem solving,Manufacturing,soft,84.4,80.8,71.3
+Emotional intelligence,Manufacturing,soft,83.9,64.7,87.9
+Electronic health records,Manufacturing,hard,83.6,50.2,67.7
+UX research,Manufacturing,hard,83.1,65.5,66.9
+TypeScript,Manufacturing,hard,82.7,49.4,78.4
+Critical thinking,Manufacturing,soft,82.5,80.0,76.7
+AWS,Manufacturing,hard,82.5,74.9,67.8
+Git,Manufacturing,hard,82.2,61.2,73.0
+Decision making,Manufacturing,soft,82.0,59.8,71.8
+Wireframing,Manufacturing,hard,81.9,58.1,80.3
+Time management,Manufacturing,soft,81.8,80.4,82.3
+Docker,Manufacturing,hard,81.6,61.5,78.4
+Conflict resolution,Manufacturing,soft,81.3,82.2,76.7
+Terraform,Manufacturing,hard,81.3,70.7,74.9
+React,Manufacturing,hard,81.0,69.1,83.1
+Negotiation,Manufacturing,soft,80.8,64.3,55.6

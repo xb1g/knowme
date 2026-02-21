@@ -1,0 +1,29 @@
+skill,category,type,demand,scarcity,future_proof
+Data visualization,Insurance,hard,91.3,66.5,57.0
+TypeScript,Insurance,hard,89.6,73.5,64.4
+JavaScript,Insurance,hard,89.6,59.8,84.8
+Customer empathy,Insurance,soft,88.9,67.5,78.1
+Emotional intelligence,Insurance,soft,87.8,58.4,72.2
+Motion design,Insurance,hard,87.4,61.1,66.0
+Quality assurance,Insurance,hard,87.1,67.3,63.2
+Problem solving,Insurance,soft,87.0,68.8,76.7
+Creativity,Insurance,soft,86.0,63.2,73.2
+Medical coding,Insurance,hard,85.8,56.7,70.6
+Kubernetes,Insurance,hard,85.1,56.4,67.6
+UX research,Insurance,hard,83.9,89.0,66.3
+pandas,Insurance,hard,83.8,59.2,88.5
+Negotiation,Insurance,soft,83.4,65.7,79.6
+Leadership,Insurance,soft,83.2,82.5,64.6
+Git,Insurance,hard,82.8,81.0,61.6
+Supply chain management,Insurance,hard,82.8,69.6,64.7
+Adobe Illustrator,Insurance,hard,82.7,52.4,79.0
+Supply chain management,Insurance,hard,82.1,77.3,74.4
+Adaptability,Insurance,soft,81.7,50.7,72.2
+Conflict resolution,Insurance,soft,81.5,89.4,74.1
+TypeScript,Insurance,hard,81.3,61.2,76.7
+CI/CD,Insurance,hard,81.2,49.8,67.0
+Decision making,Insurance,soft,80.9,64.3,63.7
+Communication,Insurance,soft,80.8,67.4,75.0
+Node.js,Insurance,hard,80.7,85.0,82.1
+Leadership,Insurance,soft,79.6,56.8,81.6
+Collaboration,Insurance,soft,79.3,70.7,93.6

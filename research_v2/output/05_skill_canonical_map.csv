@@ -1,13 +1,54 @@
 skill_raw,skill_canonical,merge_confidence
 Python,Python,1.0
 SQL,SQL,1.0
+JavaScript,JavaScript,1.0
+TypeScript,TypeScript,1.0
+React,React,1.0
+Node.js,Node.js,1.0
+Docker,Docker,1.0
+Kubernetes,Kubernetes,1.0
+AWS,AWS,1.0
+Git,Git,1.0
+REST API design,REST API design,1.0
+GraphQL,GraphQL,1.0
+CI/CD,CI/CD,1.0
+Linux,Linux,1.0
+Terraform,Terraform,1.0
 Data visualization,Data visualization,1.0
+Machine learning,Machine learning,1.0
+Deep learning,Deep learning,1.0
+pandas,pandas,1.0
+Spark,Spark,1.0
+Tableau,Tableau,1.0
+Power BI,Power BI,1.0
+A/B testing,A/B testing,1.0
+Statistical analysis,Statistical analysis,1.0
+Figma,Figma,1.0
+AutoCAD,AutoCAD,1.0
+Adobe Illustrator,Adobe Illustrator,1.0
+UX research,UX research,1.0
+Wireframing,Wireframing,1.0
+Motion design,Motion design,1.0
+Electronic health records,Electronic health records,1.0
+Clinical documentation,Clinical documentation,1.0
+Medical coding,Medical coding,1.0
+Patient triage,Patient triage,1.0
+HIPAA compliance,HIPAA compliance,1.0
+Project management,Project management,1.0
+Agile / Scrum,Agile / Scrum,1.0
+Quality assurance,Quality assurance,1.0
+Financial modeling,Financial modeling,1.0
+Supply chain management,Supply chain management,1.0
 Communication,Communication,1.0
 Problem solving,Problem solving,1.0
 Leadership,Leadership,1.0
-Project management,Project management,1.0
-Figma,Figma,1.0
-AutoCAD,AutoCAD,1.0
 Negotiation,Negotiation,1.0
 Customer empathy,Customer empathy,1.0
-Quality assurance,Quality assurance,1.0
+Critical thinking,Critical thinking,1.0
+Adaptability,Adaptability,1.0
+Collaboration,Collaboration,1.0
+Time management,Time management,1.0
+Emotional intelligence,Emotional intelligence,1.0
+Conflict resolution,Conflict resolution,1.0
+Creativity,Creativity,1.0
+Decision making,Decision making,1.0

@@ -1,0 +1,27 @@
+skill,category,type,demand,scarcity,future_proof
+pandas,Healthcare,hard,89.9,57.2,60.0
+Leadership,Healthcare,soft,89.7,70.7,62.2
+Machine learning,Healthcare,hard,89.4,77.8,78.4
+Financial modeling,Healthcare,hard,88.9,75.9,68.8
+Adobe Illustrator,Healthcare,hard,88.7,88.3,76.6
+Collaboration,Healthcare,soft,88.3,68.2,75.4
+Leadership,Healthcare,soft,87.7,79.4,69.8
+Emotional intelligence,Healthcare,soft,87.7,64.2,82.7
+Electronic health records,Healthcare,hard,87.4,87.1,70.1
+Spark,Healthcare,hard,86.3,83.1,87.5
+REST API design,Healthcare,hard,85.4,73.0,83.0
+Data visualization,Healthcare,hard,85.0,84.6,69.6
+Tableau,Healthcare,hard,84.8,90.1,67.9
+Leadership,Healthcare,soft,84.2,80.0,82.2
+AWS,Healthcare,hard,84.2,77.2,80.6
+Quality assurance,Healthcare,hard,84.1,66.7,75.6
+Supply chain management,Healthcare,hard,83.6,59.0,93.0
+HIPAA compliance,Healthcare,hard,83.4,68.4,74.7
+Wireframing,Healthcare,hard,83.2,79.6,83.1
+Agile / Scrum,Healthcare,hard,82.8,88.9,90.7
+Medical coding,Healthcare,hard,82.4,80.6,79.0
+Deep learning,Healthcare,hard,81.7,60.4,85.3
+Communication,Healthcare,soft,81.3,59.5,56.7
+Quality assurance,Healthcare,hard,81.0,91.2,73.0
+Adaptability,Healthcare,soft,80.8,82.8,70.0
+Communication,Healthcare,soft,80.4,54.1,64.7

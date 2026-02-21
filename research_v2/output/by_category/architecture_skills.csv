@@ -1,0 +1,30 @@
+skill,category,type,demand,scarcity,future_proof
+Customer empathy,Architecture,soft,91.0,60.6,91.6
+Financial modeling,Architecture,hard,90.6,81.2,82.3
+JavaScript,Architecture,hard,90.4,78.3,78.5
+Time management,Architecture,soft,89.5,52.7,82.9
+Communication,Architecture,soft,89.4,80.9,68.7
+Node.js,Architecture,hard,89.0,83.4,69.0
+Medical coding,Architecture,hard,88.4,71.5,66.0
+AutoCAD,Architecture,hard,87.8,46.5,77.4
+Docker,Architecture,hard,86.8,58.1,77.6
+CI/CD,Architecture,hard,86.4,51.5,74.7
+Emotional intelligence,Architecture,soft,86.2,68.6,87.1
+Agile / Scrum,Architecture,hard,85.2,57.1,58.0
+Electronic health records,Architecture,hard,84.7,68.3,66.9
+Quality assurance,Architecture,hard,84.7,66.6,82.9
+Collaboration,Architecture,soft,84.7,61.5,68.3
+Quality assurance,Architecture,hard,84.1,59.8,69.7
+Leadership,Architecture,soft,84.0,73.9,74.9
+Creativity,Architecture,soft,82.5,66.8,70.1
+Critical thinking,Architecture,soft,82.1,84.2,79.8
+A/B testing,Architecture,hard,82.0,73.0,57.0
+Supply chain management,Architecture,hard,82.0,56.0,65.5
+HIPAA compliance,Architecture,hard,81.9,57.5,86.7
+Git,Architecture,hard,81.7,76.0,75.4
+TypeScript,Architecture,hard,81.5,77.4,76.0
+Financial modeling,Architecture,hard,81.5,62.7,74.5
+REST API design,Architecture,hard,81.2,90.1,64.0
+Machine learning,Architecture,hard,80.8,68.4,61.2
+Decision making,Architecture,soft,79.9,70.3,74.6
+Creativity,Architecture,soft,79.5,80.9,72.5

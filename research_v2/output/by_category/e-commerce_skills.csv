@@ -1,0 +1,30 @@
+skill,category,type,demand,scarcity,future_proof
+Conflict resolution,E-commerce,soft,93.4,84.4,76.7
+HIPAA compliance,E-commerce,hard,88.2,63.4,88.9
+Machine learning,E-commerce,hard,88.0,63.7,58.6
+Statistical analysis,E-commerce,hard,87.2,64.7,81.9
+Adaptability,E-commerce,soft,87.0,69.3,76.8
+Node.js,E-commerce,hard,86.8,71.6,75.8
+Collaboration,E-commerce,soft,85.6,77.3,79.3
+Adobe Illustrator,E-commerce,hard,85.3,59.1,53.0
+UX research,E-commerce,hard,84.7,73.9,68.1
+Time management,E-commerce,soft,84.7,62.1,72.2
+SQL,E-commerce,hard,84.3,64.0,58.8
+Deep learning,E-commerce,hard,84.2,56.6,83.1
+Agile / Scrum,E-commerce,hard,83.9,82.7,63.9
+Clinical documentation,E-commerce,hard,83.8,79.0,76.0
+Power BI,E-commerce,hard,83.5,75.2,56.7
+GraphQL,E-commerce,hard,83.5,67.2,60.5
+CI/CD,E-commerce,hard,83.3,60.6,69.6
+Spark,E-commerce,hard,83.1,68.5,90.4
+Clinical documentation,E-commerce,hard,82.9,58.6,63.2
+Patient triage,E-commerce,hard,82.5,94.1,69.2
+Machine learning,E-commerce,hard,81.6,66.7,76.4
+REST API design,E-commerce,hard,81.5,75.7,84.6
+Medical coding,E-commerce,hard,81.4,55.7,68.2
+Machine learning,E-commerce,hard,81.2,64.6,81.6
+TypeScript,E-commerce,hard,81.1,71.4,58.6
+HIPAA compliance,E-commerce,hard,81.1,57.9,70.6
+Time management,E-commerce,soft,80.9,78.2,66.5
+Decision making,E-commerce,soft,80.8,73.3,84.0
+React,E-commerce,hard,80.8,73.1,76.9

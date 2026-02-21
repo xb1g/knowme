@@ -1,0 +1,23 @@
+skill,category,type,demand,scarcity,future_proof
+Customer empathy,Retail,soft,89.2,75.2,57.0
+pandas,Retail,hard,88.9,62.9,79.7
+GraphQL,Retail,hard,87.9,86.1,73.0
+Electronic health records,Retail,hard,87.8,68.7,66.1
+A/B testing,Retail,hard,87.1,90.4,67.1
+Spark,Retail,hard,86.4,80.2,72.7
+AutoCAD,Retail,hard,86.2,84.8,64.6
+Linux,Retail,hard,85.9,83.7,77.1
+Docker,Retail,hard,85.4,82.0,77.0
+React,Retail,hard,85.4,58.7,91.6
+Kubernetes,Retail,hard,85.1,57.6,80.5
+Decision making,Retail,soft,84.8,77.6,63.7
+Time management,Retail,soft,84.8,72.0,65.2
+Statistical analysis,Retail,hard,84.7,69.1,71.6
+Negotiation,Retail,soft,82.6,70.4,78.0
+Critical thinking,Retail,soft,82.3,79.0,77.3
+Node.js,Retail,hard,82.2,65.0,79.0
+Conflict resolution,Retail,soft,82.1,73.6,76.6
+JavaScript,Retail,hard,81.8,76.0,82.1
+Git,Retail,hard,80.9,57.1,76.0
+Problem solving,Retail,soft,79.7,88.3,78.8
+Leadership,Retail,soft,79.4,60.7,59.2

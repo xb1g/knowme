@@ -1,0 +1,21 @@
+skill,category,type,demand,scarcity,future_proof
+Kubernetes,Data and Analytics,hard,90.8,58.8,77.0
+Collaboration,Data and Analytics,soft,90.0,56.8,75.5
+Decision making,Data and Analytics,soft,89.2,53.1,84.7
+Clinical documentation,Data and Analytics,hard,87.5,73.7,72.3
+Critical thinking,Data and Analytics,soft,86.0,57.5,62.6
+Deep learning,Data and Analytics,hard,85.8,81.3,69.4
+Collaboration,Data and Analytics,soft,85.4,77.1,74.3
+Figma,Data and Analytics,hard,85.0,56.9,72.3
+Project management,Data and Analytics,hard,83.8,69.8,62.7
+Spark,Data and Analytics,hard,83.7,81.3,84.1
+HIPAA compliance,Data and Analytics,hard,83.5,48.4,74.7
+AWS,Data and Analytics,hard,83.3,70.0,74.7
+Time management,Data and Analytics,soft,82.2,74.9,68.9
+AutoCAD,Data and Analytics,hard,81.5,79.4,71.1
+React,Data and Analytics,hard,81.3,74.7,78.6
+Creativity,Data and Analytics,soft,80.9,77.1,80.5
+Power BI,Data and Analytics,hard,80.8,72.9,67.7
+pandas,Data and Analytics,hard,80.8,70.7,70.8
+Creativity,Data and Analytics,soft,80.4,78.2,75.4
+Problem solving,Data and Analytics,soft,79.8,68.5,77.1

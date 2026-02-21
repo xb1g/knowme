@@ -1,0 +1,30 @@
+skill,category,type,demand,scarcity,future_proof
+Customer empathy,Energy,soft,92.2,79.7,71.9
+React,Energy,hard,92.0,55.4,66.4
+Supply chain management,Energy,hard,89.4,59.6,68.9
+TypeScript,Energy,hard,89.3,58.3,70.9
+Terraform,Energy,hard,88.8,52.3,68.8
+Adobe Illustrator,Energy,hard,87.9,82.2,94.4
+TypeScript,Energy,hard,85.9,55.6,81.2
+pandas,Energy,hard,85.5,56.4,79.8
+AutoCAD,Energy,hard,85.2,80.7,74.2
+Supply chain management,Energy,hard,85.1,64.1,75.3
+Patient triage,Energy,hard,85.0,73.7,86.5
+REST API design,Energy,hard,85.0,67.1,72.8
+Patient triage,Energy,hard,84.8,71.9,71.9
+React,Energy,hard,84.8,67.0,83.9
+Supply chain management,Energy,hard,84.6,88.3,76.2
+Docker,Energy,hard,84.0,80.0,74.6
+HIPAA compliance,Energy,hard,84.0,69.8,84.6
+Machine learning,Energy,hard,84.0,63.9,67.6
+Tableau,Energy,hard,83.7,60.1,81.8
+GraphQL,Energy,hard,82.7,81.5,68.5
+Electronic health records,Energy,hard,82.3,74.7,58.9
+AutoCAD,Energy,hard,82.2,51.8,81.5
+Emotional intelligence,Energy,soft,82.0,62.8,91.2
+Tableau,Energy,hard,81.9,86.2,84.4
+Project management,Energy,hard,81.7,71.3,72.3
+Machine learning,Energy,hard,81.4,77.2,81.7
+Quality assurance,Energy,hard,80.8,60.5,84.1
+Decision making,Energy,soft,80.0,83.2,75.1
+Communication,Energy,soft,79.4,81.2,60.3

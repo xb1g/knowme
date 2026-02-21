@@ -3,14 +3,34 @@ import random
 import pandas as pd
 
 SKILLS = [
-    ("Python", "hard"), ("SQL", "hard"), ("Data visualization", "hard"),
+    # Technology / Engineering
+    ("Python", "hard"), ("SQL", "hard"), ("JavaScript", "hard"), ("TypeScript", "hard"),
+    ("React", "hard"), ("Node.js", "hard"), ("Docker", "hard"), ("Kubernetes", "hard"),
+    ("AWS", "hard"), ("Git", "hard"), ("REST API design", "hard"), ("GraphQL", "hard"),
+    ("CI/CD", "hard"), ("Linux", "hard"), ("Terraform", "hard"),
+    # Data / Analytics
+    ("Data visualization", "hard"), ("Machine learning", "hard"), ("Deep learning", "hard"),
+    ("pandas", "hard"), ("Spark", "hard"), ("Tableau", "hard"), ("Power BI", "hard"),
+    ("A/B testing", "hard"), ("Statistical analysis", "hard"),
+    # Design / Creative
+    ("Figma", "hard"), ("AutoCAD", "hard"), ("Adobe Illustrator", "hard"),
+    ("UX research", "hard"), ("Wireframing", "hard"), ("Motion design", "hard"),
+    # Healthcare
+    ("Electronic health records", "hard"), ("Clinical documentation", "hard"),
+    ("Medical coding", "hard"), ("Patient triage", "hard"), ("HIPAA compliance", "hard"),
+    # Business / Management
+    ("Project management", "hard"), ("Agile / Scrum", "hard"), ("Quality assurance", "hard"),
+    ("Financial modeling", "hard"), ("Supply chain management", "hard"),
+    # Soft skills
     ("Communication", "soft"), ("Problem solving", "soft"), ("Leadership", "soft"),
-    ("Project management", "hard"), ("Figma", "hard"), ("AutoCAD", "hard"),
-    ("Negotiation", "soft"), ("Customer empathy", "soft"), ("Quality assurance", "hard"),
+    ("Negotiation", "soft"), ("Customer empathy", "soft"), ("Critical thinking", "soft"),
+    ("Adaptability", "soft"), ("Collaboration", "soft"), ("Time management", "soft"),
+    ("Emotional intelligence", "soft"), ("Conflict resolution", "soft"),
+    ("Creativity", "soft"), ("Decision making", "soft"),
 ]
 
 
-def run(in_csv: str, out_csv: str, min_rows: int = 1200) -> None:
+def run(in_csv: str, out_csv: str, min_rows: int = 3000) -> None:
     random.seed(7)
     domains = pd.read_csv(in_csv)
     rows = []

@@ -1,0 +1,27 @@
+skill,category,type,demand,scarcity,future_proof
+Machine learning,Technology,hard,93.1,60.1,69.8
+Adobe Illustrator,Technology,hard,90.6,61.4,89.7
+Collaboration,Technology,soft,90.0,53.5,71.0
+Power BI,Technology,hard,88.3,53.0,89.4
+Statistical analysis,Technology,hard,86.6,73.1,77.1
+Adobe Illustrator,Technology,hard,85.8,65.2,74.0
+Financial modeling,Technology,hard,85.5,76.3,84.2
+Terraform,Technology,hard,85.3,62.7,74.8
+pandas,Technology,hard,85.0,54.0,83.5
+TypeScript,Technology,hard,85.0,51.0,65.3
+Problem solving,Technology,soft,83.1,53.2,80.9
+Problem solving,Technology,soft,83.1,48.2,61.7
+Agile / Scrum,Technology,hard,82.7,52.8,67.6
+Wireframing,Technology,hard,82.6,80.1,73.8
+Quality assurance,Technology,hard,82.6,77.6,74.4
+Negotiation,Technology,soft,82.6,57.9,75.2
+Time management,Technology,soft,82.5,91.6,65.9
+Supply chain management,Technology,hard,82.2,53.2,81.5
+Critical thinking,Technology,soft,82.0,60.1,86.7
+UX research,Technology,hard,81.7,64.6,61.1
+Communication,Technology,soft,81.6,66.9,68.0
+A/B testing,Technology,hard,81.5,79.4,83.8
+Customer empathy,Technology,soft,81.2,59.0,70.9
+Patient triage,Technology,hard,81.0,61.2,75.4
+Decision making,Technology,soft,80.4,65.8,64.2
+Leadership,Technology,soft,79.7,67.5,71.5

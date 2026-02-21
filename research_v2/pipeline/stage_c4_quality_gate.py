@@ -9,7 +9,7 @@ def run(in_csv: str, out_csv: str, schema_json: str) -> None:
 
     checks = []
     checks.append(("schema_columns", "PASS" if list(df.columns) == schema else "FAIL", str(list(df.columns))))
-    checks.append(("row_count_200", "PASS" if len(df) == 200 else "FAIL", str(len(df))))
+    checks.append(("row_count_500", "PASS" if len(df) == 500 else "FAIL", str(len(df))))
     checks.append(("soft_ratio_min_0_30", "PASS" if (df["type"] == "soft").mean() >= 0.30 else "FAIL", str((df["type"] == "soft").mean())))
     checks.append(("score_range", "PASS" if ((df[["demand", "scarcity", "future_proof"]] >= 0).all().all() and (df[["demand", "scarcity", "future_proof"]] <= 100).all().all()) else "FAIL", "0-100"))
     checks.append(("no_duplicates", "PASS" if df["skill"].nunique() == len(df) else "FAIL", str(df["skill"].nunique())))

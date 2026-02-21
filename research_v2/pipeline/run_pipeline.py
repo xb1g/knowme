@@ -1,6 +1,7 @@
 from __future__ import annotations
 from pathlib import Path
 import shutil
+import pandas as pd
 
 from research_v2.pipeline.stage_a1_category_discovery import run as a1
 from research_v2.pipeline.stage_a2_category_triage import run as a2
@@ -31,20 +32,30 @@ def run_all(base_dir: str = "research_v2", out_dir: str = "research_v2/output") 
     p5 = out / "05_skill_canonical_map.csv"
     p6 = out / "06_normalized_skill_evidence.csv"
     p7 = out / "07_skill_scored.csv"
-    p8 = out / "08_skill_top200.csv"
+    p8 = out / "08_skill_top500.csv"
     p9 = out / "09_quality_report.csv"
     final = out / "skills_demand_ranking_v2.csv"
 
     a1(str(cfg / "categories_seed.yaml"), str(p1))
     a2(str(p1), str(p2), shards=8)
     b1(str(p2), str(p3), keep_top=18)
-    b2(str(p3), str(p4), min_rows=1200)
+    b2(str(p3), str(p4), min_rows=3000)
     c1(str(p4), str(p5), str(p6), str(cfg / "synonyms.yaml"))
     c2(str(p6), str(p7), str(cfg / "scoring_weights.yaml"))
-    c3(str(p7), str(p8), top_n=200, min_soft_ratio=0.30)
+    c3(str(p7), str(p8), top_n=500, min_soft_ratio=0.30)
     c4(str(p8), str(p9), str(cfg / "final_schema.json"))
 
     shutil.copyfile(p8, final)
+    _split_by_category(p8, out)
+
+
+def _split_by_category(src_csv: Path, out_dir: Path) -> None:
+    df = pd.read_csv(src_csv)
+    cat_dir = Path(out_dir) / "by_category"
+    cat_dir.mkdir(exist_ok=True)
+    for cat, group in df.groupby("category"):
+        slug = cat.lower().replace(" ", "_").replace("/", "_")
+        group.to_csv(cat_dir / f"{slug}_skills.csv", index=False)
 
 
 if __name__ == "__main__":
