@@ -1,0 +1,201 @@
+skill,category,type,demand,scarcity,future_proof,source
+AI literacy,Technology,soft,99.5,83.1,84.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+LLM development and application,Technology,hard,99.4,88.5,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Prompt engineering,Technology,hard,99.4,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Machine learning,Technology,hard,98.8,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Data analysis,Data and Analytics,hard,98.4,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Python,Technology,hard,96.7,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Cloud computing,Technology,hard,96.1,88.5,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+SQL,Data and Analytics,hard,96.1,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Deep learning,Technology,hard,95.9,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Natural language processing,Technology,hard,95.7,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Generative AI integration,Technology,hard,95.5,88.5,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Retrieval augmented generation,Technology,hard,95.3,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+AI model evaluation,Technology,hard,95.1,88.5,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+MLOps,Technology,hard,94.9,88.5,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Data engineering,Data and Analytics,hard,94.3,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+ETL design,Data and Analytics,hard,94.1,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Data governance,Data and Analytics,hard,93.9,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Data quality management,Data and Analytics,hard,93.7,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Business intelligence,Data and Analytics,hard,93.5,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Data visualization,Data and Analytics,hard,93.3,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Statistical modeling,Data and Analytics,hard,93.1,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Forecasting,Data and Analytics,hard,92.9,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Experiment design,Data and Analytics,hard,92.7,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+A/B testing,Data and Analytics,hard,92.5,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+AWS cloud architecture,Technology,hard,92.3,88.5,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Product analytics,Data and Analytics,hard,92.3,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Microsoft Azure,Technology,hard,92.1,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Google Cloud Platform,Technology,hard,91.9,88.5,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Cybersecurity,Technology,hard,91.7,88.5,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Kubernetes,Technology,hard,91.7,88.5,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Docker,Technology,hard,91.5,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+DevOps,Technology,hard,91.3,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+CI/CD pipelines,Technology,hard,91.1,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Site reliability engineering,Technology,hard,90.8,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+API development,Technology,hard,90.6,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Microservices architecture,Technology,hard,90.4,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Software architecture,Technology,hard,90.2,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+JavaScript,Technology,hard,90.0,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+TypeScript,Technology,hard,89.8,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+React,Technology,hard,89.6,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Node.js,Technology,hard,89.4,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Java,Technology,hard,89.2,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+C#,Technology,hard,89.0,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Go programming,Technology,hard,88.8,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Rust programming,Technology,hard,88.6,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Mobile development,Technology,hard,88.4,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+iOS development,Technology,hard,88.2,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Android development,Technology,hard,88.0,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Analytical thinking,Soft Skills,soft,88.0,69.8,87.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Test automation,Technology,hard,87.8,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Quality engineering,Technology,hard,87.6,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Database administration,Technology,hard,87.4,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Network security,Technology,hard,87.0,88.5,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Identity and access management,Technology,hard,86.8,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Threat detection,Technology,hard,86.6,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Incident response,Technology,hard,86.4,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Adaptability,Soft Skills,soft,86.3,69.8,87.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Creative thinking,Soft Skills,soft,86.3,69.8,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Zero trust architecture,Technology,hard,86.2,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Security operations,Technology,hard,86.0,88.5,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Resilience,Soft Skills,soft,85.9,69.8,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Security information and event management,Technology,hard,85.8,88.5,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Vulnerability management,Technology,hard,85.6,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Penetration testing,Technology,hard,85.4,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Privacy engineering,Technology,hard,84.7,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+AI governance,Technology,hard,84.5,88.5,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Responsible AI,Technology,hard,84.3,88.5,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Systems thinking,Soft Skills,soft,84.1,69.8,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Critical thinking,Soft Skills,soft,83.7,69.8,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Problem solving,Soft Skills,soft,83.5,69.8,87.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Risk assessment,Operations,hard,83.3,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Decision making,Soft Skills,soft,83.3,69.8,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Regulatory compliance,Operations,hard,83.1,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Technology literacy,Technology,soft,83.0,77.8,84.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Innovation mindset,Soft Skills,soft,82.9,69.8,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Digital literacy,Technology,soft,82.8,77.8,84.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Model risk management,Finance,hard,82.5,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Curiosity and lifelong learning,Soft Skills,soft,82.2,69.8,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Process optimization,Operations,hard,81.7,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Numeracy,Analytics,hard,80.7,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Scientific literacy,Healthcare,hard,80.7,83.2,78.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Project management,Operations,hard,79.3,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Program management,Operations,hard,79.1,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Agile delivery,Operations,hard,78.9,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Scrum,Operations,hard,78.7,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Kanban,Operations,hard,78.5,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Operations research,Analytics,hard,78.4,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Lean Six Sigma,Operations,hard,78.1,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Quality control analysis,Operations,hard,77.9,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Operations analysis,Operations,hard,77.6,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Supply chain analytics,Operations,hard,77.2,80.5,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Logistics planning,Operations,hard,77.0,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Resource management,Operations,soft,76.9,69.8,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Inventory optimization,Operations,hard,76.8,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Procurement,Operations,hard,76.6,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Solution-based selling,Sales,soft,76.5,69.8,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Vendor management,Operations,hard,76.4,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Contract management,Operations,hard,76.2,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Workforce planning,Operations,hard,76.0,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Customer engagement and support,Sales,soft,76.0,69.8,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Budget and resource management,Finance,hard,75.8,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Financial analysis,Finance,hard,75.6,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+FP&A,Finance,hard,75.4,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Cost accounting,Finance,hard,75.2,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Cash flow management,Finance,hard,75.0,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Treasury management,Finance,hard,74.8,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Corporate finance,Finance,hard,74.6,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Investment analysis,Finance,hard,74.4,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Fraud detection,Finance,hard,74.1,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Stakeholder management,Soft Skills,soft,74.0,69.8,87.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Internal audit,Finance,hard,73.9,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Tax planning,Finance,hard,73.7,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Public speaking,Soft Skills,soft,73.6,69.8,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Negotiation,Sales,soft,73.2,69.8,87.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Sales forecasting,Sales,hard,73.0,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Revenue operations,Sales,hard,72.8,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Customer relationship management,Sales,soft,72.8,69.8,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+CRM administration,Sales,hard,72.6,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Customer service,Sales,soft,72.5,69.8,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Salesforce administration,Sales,hard,72.4,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Account management,Sales,soft,72.3,69.8,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Conflict mitigation,Soft Skills,soft,71.5,69.8,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Go-to-market strategy,Marketing,hard,71.2,75.2,79.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Growth strategy,Marketing,hard,71.0,75.2,79.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Market research,Marketing,hard,70.8,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Digital marketing,Marketing,hard,70.6,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+SEO,Marketing,hard,70.4,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Presentation skills,Soft Skills,soft,70.4,69.8,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Brand management,Marketing,soft,70.3,69.8,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+SEM,Marketing,hard,70.2,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Written communication,Soft Skills,soft,70.2,66.1,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Public relations,Marketing,soft,70.1,69.8,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Marketing automation,Marketing,hard,70.0,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Business writing,Soft Skills,soft,70.0,69.8,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Content strategy,Marketing,hard,69.8,75.2,79.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Active listening,Soft Skills,soft,69.8,66.1,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Interpersonal communication,Soft Skills,soft,69.6,66.1,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Campaign analytics,Marketing,hard,69.5,80.5,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Collaboration,Soft Skills,soft,69.4,66.1,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Social media analytics,Marketing,hard,69.3,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Teamwork,Soft Skills,soft,69.2,66.1,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Cross-functional collaboration,Soft Skills,soft,69.0,66.1,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Leadership,Soft Skills,soft,68.8,69.8,87.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+People management,Soft Skills,soft,68.6,69.8,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Coaching,Soft Skills,soft,68.4,69.8,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Mentoring,Soft Skills,soft,68.2,69.8,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Emotional intelligence,Soft Skills,soft,67.8,69.8,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Empathy,Soft Skills,soft,67.6,66.1,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Customer empathy,Soft Skills,soft,67.4,66.1,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Social perceptiveness,Soft Skills,soft,67.2,69.8,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Influence,Soft Skills,soft,67.0,69.8,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Persuasion,Soft Skills,soft,66.8,69.8,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Service orientation,Soft Skills,soft,66.6,69.8,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Relationship building,Soft Skills,soft,66.4,69.8,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Change leadership,Soft Skills,soft,65.4,69.8,87.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Talent management,Operations,soft,65.3,69.8,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Talent development,Operations,soft,65.1,69.8,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Performance management,Operations,soft,64.9,69.8,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Strategic thinking,Soft Skills,soft,64.9,69.8,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Change management,Operations,soft,64.7,69.8,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Decision intelligence,Analytics,hard,63.6,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Strategic planning,Operations,hard,63.2,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Scenario planning,Operations,hard,62.8,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Business process mapping,Operations,hard,62.4,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Interviewing,Soft Skills,soft,62.3,69.8,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Business process reengineering,Operations,hard,62.2,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+ERP administration,Operations,hard,62.0,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+SAP,Operations,hard,61.8,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Recruiting,Operations,soft,61.7,69.8,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+HR analytics,Operations,hard,61.6,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Talent analytics,Operations,hard,61.4,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Onboarding,Operations,soft,61.3,69.8,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Human-centered design,Technology,soft,61.2,77.8,84.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+HRIS administration,Operations,hard,61.2,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Learning and development,Operations,soft,61.1,69.8,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Payroll administration,Operations,hard,61.0,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Benefits administration,Operations,hard,60.8,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Service design,Technology,soft,60.6,77.8,84.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+UI design,Technology,hard,60.5,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+UX research,Technology,hard,60.3,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Accessibility design,Technology,hard,59.9,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Design systems,Technology,hard,59.7,83.2,76.4,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Instructional design,Operations,hard,59.7,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Training design,Operations,hard,59.5,80.5,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Care coordination,Healthcare,soft,59.3,77.8,86.7,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Knowledge management,Operations,hard,59.3,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Technical writing,Operations,hard,59.1,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Documentation standards,Operations,hard,58.9,75.2,74.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Clinical documentation,Healthcare,hard,58.7,88.5,78.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Electronic health records,Healthcare,hard,58.5,83.2,78.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Patient triage,Healthcare,hard,58.3,83.2,78.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Telehealth operations,Healthcare,hard,57.9,83.2,78.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Medical coding,Healthcare,hard,57.7,83.2,78.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Clinical data management,Healthcare,hard,57.5,88.5,78.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Pharmacovigilance,Healthcare,hard,57.3,88.5,78.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Laboratory techniques,Healthcare,hard,57.1,83.2,78.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Biomedical data analysis,Healthcare,hard,56.9,83.2,78.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Infection prevention,Healthcare,hard,56.7,83.2,78.5,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Risk communication,Soft Skills,soft,55.6,66.1,82.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
+Ethical judgment,Soft Skills,soft,55.4,69.8,87.6,https://www.bls.gov;https://www.weforum.org;https://economicgraph.linkedin.com
