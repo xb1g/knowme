@@ -1,0 +1,14 @@
+demand:
+  growth: 0.55
+  posting_trend: 0.30
+  posting_volume: 0.15
+scarcity:
+  openings_ratio: 0.70
+  skills_gap: 0.30
+future_proof:
+  durability: 0.45
+  automation_resilience: 0.35
+  cross_sector_use: 0.20
+constraints:
+  top_n: 200
+  min_soft_ratio: 0.30

@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "skill",
+    "category",
+    "type",
+    "demand",
+    "scarcity",
+    "future_proof"
+  ]
+}

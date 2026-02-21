@@ -1,0 +1,201 @@
+skill,category,type,demand,scarcity,future_proof
+SQL,Energy,hard,94.1,66.8,74.4
+Leadership,Construction,soft,93.9,90.3,60.7
+Customer empathy,Transportation,soft,93.2,70.6,59.8
+Leadership,Operations,soft,93.1,60.1,69.8
+Problem solving,Banking,soft,92.3,63.9,79.9
+SQL,E-commerce,hard,91.8,60.4,57.8
+Negotiation,Sales,soft,91.7,78.7,84.2
+Python,Transportation,hard,91.2,88.2,74.0
+Quality assurance,E-commerce,hard,91.2,63.7,66.1
+Project management,Sales,hard,91.0,57.4,85.3
+Leadership,Civil Engineering,soft,90.8,58.8,77.0
+Customer empathy,Sales,soft,90.6,61.4,89.7
+Negotiation,Healthcare,soft,90.2,59.9,79.3
+Quality assurance,Design,hard,90.0,56.8,75.5
+Python,Architecture,hard,90.0,53.5,71.0
+AutoCAD,Banking,hard,89.9,90.7,65.5
+Communication,Retail,soft,89.9,57.2,60.0
+SQL,E-commerce,hard,89.8,64.7,70.4
+Communication,E-commerce,soft,89.7,70.7,62.2
+Quality assurance,Retail,hard,89.6,57.5,66.3
+Quality assurance,Insurance,hard,89.4,77.8,78.4
+Figma,Architecture,hard,89.3,73.7,76.6
+Negotiation,Civil Engineering,soft,89.2,54.1,67.8
+Problem solving,Fashion,soft,89.2,53.1,84.7
+Negotiation,Fashion,soft,89.1,59.7,80.9
+Negotiation,Transportation,soft,88.9,76.8,66.2
+Negotiation,Public Sector,soft,88.9,75.9,68.8
+Problem solving,Retail,soft,88.9,53.6,75.9
+Negotiation,Insurance,soft,88.7,88.3,76.6
+SQL,Insurance,hard,88.3,68.2,75.4
+Leadership,Sales,soft,88.3,53.0,89.4
+Data visualization,Civil Engineering,hard,87.9,48.0,85.5
+SQL,Public Sector,hard,87.7,79.4,69.8
+Communication,Insurance,soft,87.7,64.2,82.7
+Leadership,Healthcare,soft,87.5,73.7,72.3
+AutoCAD,Banking,hard,87.4,87.1,70.1
+Customer empathy,Civil Engineering,soft,87.4,77.9,68.8
+Communication,Construction,soft,87.4,75.9,84.0
+Leadership,Healthcare,soft,87.2,61.9,61.7
+Project management,Operations,hard,87.1,92.7,63.2
+Customer empathy,Transportation,soft,87.0,49.8,77.4
+Figma,Energy,hard,86.8,82.9,72.6
+Project management,Civil Engineering,hard,86.7,48.0,76.5
+AutoCAD,Manufacturing,hard,86.6,78.1,73.3
+Figma,Sales,hard,86.6,73.1,77.1
+SQL,Construction,hard,86.4,60.5,57.5
+Problem solving,Retail,soft,86.3,83.1,87.5
+Leadership,Retail,soft,86.2,74.8,65.9
+Negotiation,Data and Analytics,soft,86.2,66.1,72.9
+Leadership,Fashion,soft,86.2,56.4,78.6
+Data visualization,Fashion,hard,86.0,83.7,85.2
+Figma,Healthcare,hard,86.0,57.5,62.6
+Python,Architecture,hard,85.9,84.9,65.1
+Problem solving,E-commerce,soft,85.9,57.6,75.7
+Quality assurance,Design,hard,85.8,93.7,62.5
+Leadership,Design,soft,85.8,81.3,69.4
+Problem solving,Technology,soft,85.8,69.5,78.4
+Leadership,Data and Analytics,soft,85.8,65.2,74.0
+AutoCAD,Retail,hard,85.7,61.7,87.4
+Project management,Transportation,hard,85.6,85.8,72.0
+Communication,Architecture,soft,85.5,76.3,84.2
+Python,Energy,hard,85.5,67.0,60.2
+Customer empathy,Civil Engineering,soft,85.5,54.6,90.6
+Project management,Data and Analytics,hard,85.5,52.6,72.4
+Problem solving,Civil Engineering,soft,85.4,77.1,74.3
+Leadership,Insurance,soft,85.4,73.0,83.0
+Project management,Technology,hard,85.4,66.6,87.5
+AutoCAD,Architecture,hard,85.3,87.1,59.6
+Leadership,Sales,soft,85.3,71.6,76.3
+Leadership,Data and Analytics,soft,85.3,62.7,74.8
+Quality assurance,Energy,hard,85.3,50.6,71.8
+Problem solving,Transportation,soft,85.1,86.6,68.1
+Customer empathy,Architecture,soft,85.1,79.7,82.4
+Quality assurance,Energy,hard,85.1,79.3,70.2
+Communication,Construction,soft,85.1,77.2,78.4
+Python,Retail,hard,85.0,84.6,69.6
+AutoCAD,Operations,hard,85.0,61.6,68.0
+Project management,Construction,hard,85.0,61.6,71.5
+Quality assurance,Construction,hard,85.0,59.0,75.1
+Python,Design,hard,85.0,56.9,72.3
+Data visualization,Sales,hard,85.0,54.0,83.5
+Problem solving,Operations,soft,85.0,51.0,65.3
+Negotiation,Design,soft,84.9,59.7,67.9
+Customer empathy,Banking,soft,84.8,90.1,67.9
+Customer empathy,Construction,soft,84.7,68.3,73.1
+Negotiation,Manufacturing,soft,84.6,70.7,67.4
+Data visualization,Civil Engineering,hard,84.6,52.1,73.3
+AutoCAD,Energy,hard,84.5,78.6,63.0
+Python,Retail,hard,84.5,49.7,84.4
+SQL,Fashion,hard,84.4,64.6,83.3
+Problem solving,Civil Engineering,soft,84.4,60.2,71.2
+Data visualization,Sales,hard,84.3,48.0,54.3
+AutoCAD,Banking,hard,84.2,80.0,82.2
+Customer empathy,E-commerce,soft,84.2,77.2,80.6
+Python,Civil Engineering,hard,84.2,74.3,67.1
+AutoCAD,Construction,hard,84.2,49.3,69.3
+AutoCAD,Public Sector,hard,84.1,66.7,75.6
+Python,Data and Analytics,hard,84.0,77.8,70.1
+Quality assurance,Design,hard,83.8,69.8,62.7
+Figma,Technology,hard,83.8,66.9,64.3
+Leadership,Healthcare,soft,83.7,81.3,84.1
+Quality assurance,Operations,hard,83.7,62.2,63.2
+Customer empathy,Technology,soft,83.7,56.3,81.4
+Customer empathy,Public Sector,soft,83.6,59.0,93.0
+Customer empathy,Sales,soft,83.5,61.0,90.2
+AutoCAD,Healthcare,hard,83.5,48.4,74.7
+Quality assurance,Transportation,hard,83.4,74.5,55.1
+Python,Banking,hard,83.4,68.4,74.7
+Project management,Construction,hard,83.4,65.7,64.1
+Project management,Civil Engineering,hard,83.3,70.0,74.7
+Communication,Technology,soft,83.2,84.8,86.4
+Quality assurance,Insurance,hard,83.2,79.6,83.1
+Project management,Construction,hard,83.1,65.9,83.0
+SQL,Manufacturing,hard,83.1,61.4,80.5
+Project management,Architecture,hard,83.1,53.2,80.9
+AutoCAD,Technology,hard,83.1,48.2,61.7
+AutoCAD,Transportation,hard,83.0,57.2,78.8
+Data visualization,Banking,hard,82.8,88.9,90.7
+SQL,Technology,hard,82.8,83.1,58.1
+Negotiation,Retail,soft,82.7,87.0,78.6
+SQL,Architecture,hard,82.7,52.8,67.6
+Figma,Data and Analytics,hard,82.6,80.1,73.8
+Negotiation,Sales,soft,82.6,77.6,74.4
+Data visualization,Technology,hard,82.6,75.0,80.6
+SQL,Civil Engineering,hard,82.6,74.0,61.8
+Customer empathy,Technology,soft,82.6,57.9,75.2
+SQL,Transportation,hard,82.6,50.1,77.6
+AutoCAD,Sales,hard,82.5,91.6,65.9
+Communication,Public Sector,soft,82.4,80.6,79.0
+Problem solving,Manufacturing,soft,82.4,63.4,81.4
+Negotiation,Operations,soft,82.4,58.3,71.6
+Quality assurance,Manufacturing,hard,82.2,82.6,80.8
+Leadership,Civil Engineering,soft,82.2,74.9,68.9
+Problem solving,Operations,soft,82.2,67.7,83.5
+Problem solving,Civil Engineering,soft,82.2,66.0,72.3
+Leadership,Fashion,soft,82.2,53.6,71.6
+Problem solving,Architecture,soft,82.2,53.2,81.5
+Customer empathy,Healthcare,soft,82.0,76.6,85.5
+Leadership,Sales,soft,82.0,60.1,86.7
+Problem solving,Fashion,soft,81.7,82.8,59.9
+Leadership,E-commerce,soft,81.7,79.7,68.7
+Problem solving,Operations,soft,81.7,64.6,61.1
+Python,Insurance,hard,81.7,60.4,85.3
+Python,Fashion,hard,81.7,50.3,61.7
+AutoCAD,E-commerce,hard,81.6,77.0,64.8
+Figma,Operations,hard,81.6,73.5,83.1
+Python,Sales,hard,81.6,66.9,68.0
+Project management,Fashion,hard,81.5,79.4,71.1
+SQL,Data and Analytics,hard,81.5,79.4,83.8
+Quality assurance,Transportation,hard,81.5,66.4,79.0
+Python,Manufacturing,hard,81.5,59.8,73.3
+Leadership,Transportation,soft,81.5,57.5,60.7
+Data visualization,Design,hard,81.4,72.9,67.7
+Negotiation,Fashion,soft,81.3,74.7,78.6
+Project management,Banking,hard,81.3,59.5,56.7
+Problem solving,Energy,soft,81.3,56.2,68.6
+AutoCAD,Design,hard,81.2,59.2,82.6
+Negotiation,Architecture,soft,81.2,59.0,70.9
+Figma,Manufacturing,hard,81.1,88.2,93.2
+Figma,Fashion,hard,81.1,70.5,71.0
+Customer empathy,Construction,soft,81.1,66.5,68.2
+Customer empathy,E-commerce,soft,81.0,91.2,73.0
+Figma,Architecture,hard,81.0,67.7,62.4
+Customer empathy,Operations,soft,81.0,61.2,75.4
+SQL,Data and Analytics,hard,80.9,77.1,80.5
+Quality assurance,Data and Analytics,hard,80.9,76.8,75.1
+Leadership,Manufacturing,soft,80.9,74.7,69.6
+Python,Operations,hard,80.9,68.5,55.1
+Figma,E-commerce,hard,80.8,82.8,70.0
+Leadership,Manufacturing,soft,80.8,82.7,79.4
+Problem solving,Technology,soft,80.8,76.5,81.2
+Negotiation,Design,soft,80.8,72.9,67.7
+Quality assurance,Fashion,hard,80.8,70.7,70.8
+SQL,Energy,hard,80.8,60.2,85.8
+Communication,E-commerce,soft,80.7,87.9,63.8
+Project management,Energy,hard,80.7,74.6,76.0
+Project management,Healthcare,hard,80.7,61.7,73.4
+Negotiation,Healthcare,soft,80.7,61.1,85.0
+Leadership,Transportation,soft,80.6,81.6,63.5
+Figma,Fashion,hard,80.6,61.8,87.0
+Python,Architecture,hard,80.6,52.4,55.3
+Data visualization,Transportation,hard,80.5,87.2,86.8
+Figma,Sales,hard,80.5,76.9,77.5
+SQL,Sales,hard,80.5,65.0,82.4
+Problem solving,Construction,soft,80.5,64.7,81.4
+AutoCAD,Civil Engineering,hard,80.4,78.2,75.4
+AutoCAD,Transportation,hard,80.4,69.8,74.5
+AutoCAD,Civil Engineering,hard,80.4,67.7,80.4
+Figma,Technology,hard,80.4,65.8,64.2
+Customer empathy,Retail,soft,80.4,64.2,71.6
+Leadership,Manufacturing,soft,80.4,61.1,71.3
+SQL,E-commerce,hard,80.4,54.1,64.7
+Leadership,Civil Engineering,soft,80.3,64.7,70.0
+Figma,Public Sector,hard,80.3,59.9,70.7
+Negotiation,Energy,soft,80.2,75.5,72.9
+Python,E-commerce,hard,80.2,60.0,92.9
+Communication,Design,soft,80.1,82.0,70.2
+Customer empathy,Architecture,soft,80.1,72.1,86.5
+Problem solving,Manufacturing,soft,80.0,78.3,78.5
+Figma,Data and Analytics,hard,80.0,55.3,66.2

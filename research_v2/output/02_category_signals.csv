@@ -1,0 +1,33 @@
+category,growth_signal,posting_trend,posting_volume,priority_score
+Design,95.0,90.0,88.0,92.1
+Fashion,93.4,88.6,86.7,90.6
+Civil Engineering,91.9,87.2,85.4,89.2
+Healthcare,90.3,85.8,84.1,87.7
+Data and Analytics,88.8,84.4,82.8,86.2
+Technology,87.2,83.0,81.4,84.8
+Sales,85.6,81.6,80.1,83.3
+Operations,84.1,80.2,78.8,81.8
+Architecture,82.5,78.8,77.5,80.4
+Construction,80.9,77.3,76.2,78.9
+Manufacturing,79.4,75.9,74.9,77.4
+Energy,77.8,74.5,73.6,76.0
+Transportation,76.2,73.1,72.2,74.5
+Retail,74.7,71.7,70.9,73.0
+E-commerce,73.1,70.3,69.6,71.6
+Banking,71.6,68.9,68.3,70.1
+Insurance,70.0,67.5,67.0,68.7
+Public Sector,68.4,66.1,65.7,67.2
+Education,66.9,64.7,64.4,65.7
+Legal,65.3,63.3,63.1,64.3
+Media,63.8,61.9,61.8,62.8
+Hospitality,62.2,60.5,60.4,61.3
+Agriculture,60.6,59.1,59.1,59.9
+Biotech,59.1,57.7,57.8,58.4
+Pharma,57.5,56.2,56.5,56.9
+Telecom,55.9,54.8,55.2,55.5
+Cybersecurity,54.4,53.4,53.9,54.0
+Product Management,52.8,52.0,52.6,52.5
+Human Resources,51.2,50.6,51.2,51.1
+Supply Chain,49.7,49.2,49.9,49.6
+Marketing,48.1,47.8,48.6,48.1
+Customer Support,46.6,46.4,47.3,46.7

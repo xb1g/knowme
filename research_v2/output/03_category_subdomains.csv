@@ -1,0 +1,55 @@
+category,subdomain,role_family
+Design,Design Core,Practitioner
+Design,Design Strategy,Lead
+Design,Design Operations,Specialist
+Fashion,Fashion Core,Practitioner
+Fashion,Fashion Strategy,Lead
+Fashion,Fashion Operations,Specialist
+Civil Engineering,Civil Engineering Core,Practitioner
+Civil Engineering,Civil Engineering Strategy,Lead
+Civil Engineering,Civil Engineering Operations,Specialist
+Healthcare,Healthcare Core,Practitioner
+Healthcare,Healthcare Strategy,Lead
+Healthcare,Healthcare Operations,Specialist
+Data and Analytics,Data and Analytics Core,Practitioner
+Data and Analytics,Data and Analytics Strategy,Lead
+Data and Analytics,Data and Analytics Operations,Specialist
+Technology,Technology Core,Practitioner
+Technology,Technology Strategy,Lead
+Technology,Technology Operations,Specialist
+Sales,Sales Core,Practitioner
+Sales,Sales Strategy,Lead
+Sales,Sales Operations,Specialist
+Operations,Operations Core,Practitioner
+Operations,Operations Strategy,Lead
+Operations,Operations Operations,Specialist
+Architecture,Architecture Core,Practitioner
+Architecture,Architecture Strategy,Lead
+Architecture,Architecture Operations,Specialist
+Construction,Construction Core,Practitioner
+Construction,Construction Strategy,Lead
+Construction,Construction Operations,Specialist
+Manufacturing,Manufacturing Core,Practitioner
+Manufacturing,Manufacturing Strategy,Lead
+Manufacturing,Manufacturing Operations,Specialist
+Energy,Energy Core,Practitioner
+Energy,Energy Strategy,Lead
+Energy,Energy Operations,Specialist
+Transportation,Transportation Core,Practitioner
+Transportation,Transportation Strategy,Lead
+Transportation,Transportation Operations,Specialist
+Retail,Retail Core,Practitioner
+Retail,Retail Strategy,Lead
+Retail,Retail Operations,Specialist
+E-commerce,E-commerce Core,Practitioner
+E-commerce,E-commerce Strategy,Lead
+E-commerce,E-commerce Operations,Specialist
+Banking,Banking Core,Practitioner
+Banking,Banking Strategy,Lead
+Banking,Banking Operations,Specialist
+Insurance,Insurance Core,Practitioner
+Insurance,Insurance Strategy,Lead
+Insurance,Insurance Operations,Specialist
+Public Sector,Public Sector Core,Practitioner
+Public Sector,Public Sector Strategy,Lead
+Public Sector,Public Sector Operations,Specialist

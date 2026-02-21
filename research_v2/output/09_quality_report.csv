@@ -1,0 +1,6 @@
+check_name,status,details
+schema_columns,PASS,"['skill', 'category', 'type', 'demand', 'scarcity', 'future_proof']"
+row_count_200,PASS,200
+soft_ratio_min_0_30,PASS,0.455
+score_range,PASS,0-100
+no_duplicates,FAIL,12
