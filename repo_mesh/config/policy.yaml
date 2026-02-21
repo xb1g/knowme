@@ -1,0 +1,4 @@
+repo_access_mode: "read_only"
+cross_repo_share_mode: "derived_only"
+allow_code_read: true
+max_shared_snippets_per_turn: 0

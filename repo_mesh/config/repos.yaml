@@ -1,0 +1,25 @@
+repos:
+  - repo_id: "pseed"
+    display_name: "PSeed – Passion Seeder"
+    github_full_name: "xb1g/pseed"
+    local_path: "./workspace/pseed"
+    selected: true
+    read_only: true
+  - repo_id: "hive"
+    display_name: "Hive – Direct Democracy"
+    github_full_name: "xb1g/hive"
+    local_path: "./workspace/hive"
+    selected: true
+    read_only: true
+  - repo_id: "chatasci"
+    display_name: "ChatAsci – Data Science"
+    github_full_name: "xb1g/chatasci"
+    local_path: "./workspace/chatasci"
+    selected: true
+    read_only: true
+  - repo_id: "rocketmap"
+    display_name: "RocketMap – Next.js App"
+    github_full_name: "xb1g/rocketmap"
+    local_path: "./workspace/rocketmap"
+    selected: true
+    read_only: true
